@@ -23,7 +23,7 @@ public class Main{
 		team3.addteamPlayer("Harry Kane");
 		team3.addteamPlayer("Jamal Musiala");
 		team3.addteamPlayer("Manuel Neuer");
-		team4.addteamPlayer("Erlin Haaland");
+		team4.addteamPlayer("Erling Haaland");
 		team4.addteamPlayer("Kevin De Bruyne");
 		team4.addteamPlayer("Rodri");
 		team5.addteamPlayer("Alejandro Garnacho");
